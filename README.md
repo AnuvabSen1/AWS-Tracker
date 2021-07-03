@@ -22,12 +22,12 @@ Refer this repository or reach out on Slack to keep a track of your progress.
  
  
  ## Tracker
- Fork the repo and send Pull Requests.
+ -Fork the repo and send Pull Requests.
  
- Use this repository to keep a track of the course. 
+ -Use this repository to keep a track of the course. 
  
- #Made by ❤️ and Commitment in mind for my Dada and Amrita<br>
- ⏰
+ # Made by ❤️ and Commitment in mind for my Dada and Amrita<br>
+ # ⏰
  
  
  
