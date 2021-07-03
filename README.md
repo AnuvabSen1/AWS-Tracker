@@ -1,7 +1,6 @@
 # AWS-Tracker
 # AWS-Machine-Learning-Foundations-Scholarship
 The goal for this program is to up-level machine learning skills to us and thus this AWS Tracker is designed.
-
 ![AWSML-Banner](AWSML-Banner.png)
 
 Refer this repository or reach out on Slack to keep a track of your progress.
@@ -26,6 +25,9 @@ Refer this repository or reach out on Slack to keep a track of your progress.
  Fork the repo and send Pull Requests.
  
  Use this repository to keep a track of the course. 
+ 
+ #Made by ❤️ and Commitment in mind for my Dada and Amrita<br>
+ ⏰
  
  
  
