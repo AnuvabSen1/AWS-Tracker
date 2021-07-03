@@ -26,8 +26,9 @@ Refer this repository or reach out on Slack to keep a track of your progress.
  
  -Use this repository to keep a track of the course. 
  
- # Made by ❤️ and Commitment in mind for my Dada 👦 and Amrita<br> 👧
- # ⏰
+ # Made by ❤️ and Commitment in mind for my Dada 👦 & <br> Amrita 👧
+-The clock is ticking guys.
+# ⏰
  
  
  
