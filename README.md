@@ -23,7 +23,7 @@ Refer this repository or reach out on Slack to keep a track of your progress.
  
  
  ## Tracker
- Fork the repo and send PRs.
+ Fork the repo and send Pull Requests.
  
  Use this repository to keep a track of the course. 
  
